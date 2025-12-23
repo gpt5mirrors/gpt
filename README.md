@@ -1,10 +1,10 @@
-# ChatGPT 使用指南：国内中文版镜像网站整理合集（2025/12/19）
+# ChatGPT 使用指南：国内中文版镜像网站整理合集（2025/12/23）
 
 本文提供完整的 **ChatGPT 中文版使用指南**，推荐国内可用的 **ChatGPT 镜像网站**，支持 **GPT-5**、**GPT-4o**，永久免费，无需翻墙，适合中文用户。本项目旨在为用户提供一站式的操作指南，致力于为国内用户提供**中文版ChatGPT**的使用教程，精心整理了无需科学上网的**ChatGPT 镜像网站**及详细的使用指南，帮助您轻松体验全球领先的AI对话模型，满足学习、工作、创作等多样化需求。
 
 ## 主要推荐站点
 - **ChatGPT 中文体验站**：[http://chatgpt.shuangrenchengxing.com/chat.php](http://chatgpt.shuangrenchengxing.com/chat.php)
-- **ChatGPT 镜像站导航**：[点击进入](https://gptmirror.pftedu.com/chatgpt-china-site.html)
+- **ChatGPT 镜像站导航**：[点击进入](https://chat.gptmirrors.com/china-site.html)
 
 ## 什么是 ChatGPT 中文版？
 **ChatGPT 中文版**是OpenAI开发的大语言模型经过中文适配优化后的版本。针对中文使用场景深度调优，更贴合国人表达习惯和实际需求。无论是文案创作、办公辅助、编程支持、语言润色还是数据整理，都能轻松应对。可以形象地理解为给“国际顶尖AI”穿上了中文马甲，让交互体验更加顺畅自然。
